@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class NotasEstudiantes {
 
-    
+    //esto es un ensayo
     public static void main(String[] args) {
         
         double notad[], pper=0, npg=0;
